@@ -1,7 +1,24 @@
 name|ModNames|
-description|ModNames desc|
+description|Shows the names of your currently installed mods|
 dl_link|https://github.com/Wackymoder/afdf|
+author|WackyModer|
 
-name|ModnNames|
-description|ModnNames desc|
-dl_link|https://github.com/Wackymoder/afdfn
+name|Reverse Gust|
+description|Reverses the direction of gust|
+dl_link|https://github.com/Wackymoder/afdfn|
+author|WackyModer|
+
+name|No Sudden Death|
+description|Removes sudden death|
+dl_link|https://github.com/Wackymoder/afdfn|
+author|cherubble|
+
+name|No Size Caps|
+description|Removes size caps|
+dl_link|https://github.com/Wackymoder/afdfn|
+author|WackyModer|
+
+name|Ability Storm|
+description|Spawns in ability orbs every second|
+dl_link|https://github.com/Wackymoder/afdfn|
+author|50% Dead|
