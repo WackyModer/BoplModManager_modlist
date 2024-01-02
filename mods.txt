@@ -22,3 +22,18 @@ name|Ability Storm|
 description|Spawns in ability orbs every second|
 dl_link|https://github.com/Wackymoder/afdfn|
 author|50% Dead|
+
+name|Arrow Wall|
+description|When you shoot the bow... theres a wall...|
+dl_link|https://github.com/Wackymoder/afdfn|
+author|WackyModer|
+
+name|Low Gravity|
+description|Sets gravity to 30%|
+dl_link|https://github.com/Wackymoder/afdfn|
+author|Master Oogway|
+
+name|Speedy Players|
+description|Makes players quite speedy|
+dl_link|https://github.com/Wackymoder/afdfn|
+author|Master Oogway|
