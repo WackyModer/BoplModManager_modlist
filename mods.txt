@@ -1,39 +1,39 @@
 name|ModNames|
 description|Shows the names of your currently installed mods|
-dl_link|https://github.com/Wackymoder/afdf|
+dl_link|https://github.com/WackyModer/Bopl_Mods/releases/download/ModNames/ModNames.dll|
 author|WackyModer|
 
 name|Reverse Gust|
 description|Reverses the direction of gust|
-dl_link|https://github.com/Wackymoder/afdfn|
+dl_link|https://github.com/WackyModer/Bopl_Mods/releases/download/ReverseGust/ReverseGust.dll|
 author|WackyModer|
 
 name|No Sudden Death|
 description|Removes sudden death|
-dl_link|https://github.com/Wackymoder/afdfn|
+dl_link|https://github.com/xuuyz/NoSuddenDeath/releases/download/bugfix/NoSuddenDeath.dll|
 author|cherubble|
 
 name|No Size Caps|
 description|Removes size caps|
-dl_link|https://github.com/Wackymoder/afdfn|
+dl_link|https://github.com/WackyModer/Bopl_Mods/releases/download/NoSizeCaps_BugFix/noSizeCaps.dll|
 author|WackyModer|
 
 name|Ability Storm|
 description|Spawns in ability orbs every second|
-dl_link|https://github.com/Wackymoder/afdfn|
+dl_link|https://github.com/minidogg/myboplmods/releases/download/abilityStorm1.3/AbilityStorm.dll|
 author|50% Dead|
 
 name|Arrow Wall|
 description|When you shoot the bow... theres a wall...|
-dl_link|https://github.com/Wackymoder/afdfn|
+dl_link|https://github.com/WackyModer/Bopl_Mods/releases/download/ArrowWall/arrowWall.dll|
 author|WackyModer|
 
 name|Low Gravity|
 description|Sets gravity to 30%|
-dl_link|https://github.com/Wackymoder/afdfn|
+dl_link|https://github.com/MasterOogway6147/Bopl_Mods/releases/download/LowG/LowGravity.dll|
 author|Master Oogway|
 
 name|Speedy Players|
 description|Makes players quite speedy|
-dl_link|https://github.com/Wackymoder/afdfn|
+dl_link|https://github.com/MasterOogway6147/Bopl_Mods/releases/download/SpeedyPlayers/SpeedyPlayer.dll|
 author|Master Oogway|
